@@ -116,7 +116,7 @@ curl -X DELETE https://api.medplum.com/scim/v2/Users/MY_USER_ID \
 
 Note that deleting the user does not delete any of the corresponding FHIR resources.
 
-## Search users
+## Search Vaishnavi
 
 Search for users by making an HTTP `GET` request to `https://api.medplum.com/scim/v2/Users`
 
